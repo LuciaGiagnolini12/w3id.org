@@ -10,7 +10,7 @@
 
 ## Built on
 
-RiC-O, PREMIS, PROV-O
+RiC-O, PREMIS, PROV-O, LRMoo
 
 ## Repository
 
